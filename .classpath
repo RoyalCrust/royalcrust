@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="online-food-delivery-app - Copy/.mvn/wrapper"/>
+	<classpathentry kind="src" path="online-food-delivery-app - Copy/src/main/java"/>
+	<classpathentry kind="src" path="online-food-delivery-app - Copy/src/test/java"/>
+	<classpathentry kind="lib" path="online-food-delivery-app - Copy/target/dependency/webapp-runner.jar"/>
+	<classpathentry kind="lib" path="online-food-delivery-app - Copy/target/xwiggy-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="online-food-delivery-app - Copy/target/classes"/>
+</classpath>
